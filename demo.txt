@@ -1,3 +1,2 @@
-hello world
-this is my first git demo
-I think git is very useful
+git is a distributed vversion control system
+git is free softwarel
